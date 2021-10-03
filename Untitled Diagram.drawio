@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T14:53:00.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="900Yu7pX4GGiwgF9v6Z5" version="15.3.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-03T18:03:36.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="PhRlGu11vIXZxxxeklyb" version="15.3.5" type="github" pages="2">
   <diagram id="UQQjHAeR4OQp4iDTp1pQ" name="Entity">
-    <mxGraphModel dx="2044" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="FyH1DNnXMYLdTDPw34gD-0" />
         <mxCell id="FyH1DNnXMYLdTDPw34gD-1" parent="FyH1DNnXMYLdTDPw34gD-0" />
-        <mxCell id="4ecabF6AKV6T16An4PQ0-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Case Study for National Hockey League (NHL) Database&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="FyH1DNnXMYLdTDPw34gD-1">
+        <mxCell id="4ecabF6AKV6T16An4PQ0-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Case Study for National Hockey League (NHL) Database&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" parent="FyH1DNnXMYLdTDPw34gD-1" vertex="1">
           <mxGeometry x="261" y="131" width="620" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4ecabF6AKV6T16An4PQ0-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Suppose you are given the following requirements for a simple database for the&lt;br&gt;National Hockey League (NHL):&lt;br&gt;&lt;br&gt; the NHL has many teams,&lt;br&gt; each team has a name, a city, a coach, a captain, and a set of players,&lt;br&gt; each player belongs to only one team,&lt;br&gt; each player has a name, a position (such as left wing or goalie), a skill level, and&lt;br&gt;a set of injury records,&lt;br&gt; a team captain is also a player,&lt;br&gt; a game is played between two teams (referred to as host_team and guest_team)&lt;br&gt;and has a date (such as May 11th, 1999) and a score (such as 4 to 2).&lt;br&gt;&lt;br&gt;Construct a clean and concise ER diagram for the NHL database.&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="FyH1DNnXMYLdTDPw34gD-1">
+        <mxCell id="4ecabF6AKV6T16An4PQ0-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Suppose you are given the following requirements for a simple database for the&lt;br&gt;National Hockey League (NHL):&lt;br&gt;&lt;br&gt; the NHL has many teams,&lt;br&gt; each team has a name, a city, a coach, a captain, and a set of players,&lt;br&gt; each player belongs to only one team,&lt;br&gt; each player has a name, a position (such as left wing or goalie), a skill level, and&lt;br&gt;a set of injury records,&lt;br&gt; a team captain is also a player,&lt;br&gt; a game is played between two teams (referred to as host_team and guest_team)&lt;br&gt;and has a date (such as May 11th, 1999) and a score (such as 4 to 2).&lt;br&gt;&lt;br&gt;Construct a clean and concise ER diagram for the NHL database.&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="FyH1DNnXMYLdTDPw34gD-1" vertex="1">
           <mxGeometry x="70" y="200" width="990" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="d9zC-lGGndAZzhyb3sW2" name="ER Diagram">
-    <mxGraphModel dx="2044" dy="856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3407" dy="1427" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,20 +156,6 @@
         </mxCell>
         <mxCell id="jWixUfJ426eTiWxfZ4fG-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;E - R Diagram for National Hockey League (NHL) Database&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="248" y="129" width="645" height="23" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="2gJBBbDV-QdvTClewc7w" name="Tables">
-    <mxGraphModel dx="1703" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
-      <root>
-        <mxCell id="Nri241kQ4nRvyYdVdxjc-0" />
-        <mxCell id="Nri241kQ4nRvyYdVdxjc-1" parent="Nri241kQ4nRvyYdVdxjc-0" />
-        <mxCell id="Kuk6I2bnjqDTjOcQv5tr-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Tables&amp;nbsp;for National Hockey League (NHL) Database&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="Nri241kQ4nRvyYdVdxjc-1">
-          <mxGeometry x="280" y="120" width="570" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Kuk6I2bnjqDTjOcQv5tr-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;National Hockey League (NHL) Database Tables:&lt;br&gt;&lt;br&gt;team(&lt;u&gt;t_name&lt;/u&gt;,city,coach,captain,player)&lt;br&gt;&lt;br&gt;player(&lt;u&gt;player_name&lt;/u&gt;, position, skills_level, injury_record)&lt;br&gt;&lt;br&gt;game(&lt;u&gt;date&lt;/u&gt;, score, &lt;u&gt;host_team&lt;/u&gt;, guest_team)&lt;br&gt;&lt;br&gt;injury_record(&lt;u&gt;id&lt;/u&gt;, date, description)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nri241kQ4nRvyYdVdxjc-1">
-          <mxGeometry x="120" y="280" width="610" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
