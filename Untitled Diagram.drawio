@@ -1,20 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T07:37:43.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="zvVSn0x0G3yP3E9tPEE_" version="15.4.1" type="github" pages="3">
-  <diagram id="UQQjHAeR4OQp4iDTp1pQ" name="Entity">
-    <mxGraphModel dx="1022" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="FyH1DNnXMYLdTDPw34gD-0" />
-        <mxCell id="FyH1DNnXMYLdTDPw34gD-1" parent="FyH1DNnXMYLdTDPw34gD-0" />
-        <mxCell id="4ecabF6AKV6T16An4PQ0-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Case Study for National Hockey League (NHL) Database&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" parent="FyH1DNnXMYLdTDPw34gD-1" vertex="1">
-          <mxGeometry x="104" y="131" width="620" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4ecabF6AKV6T16An4PQ0-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Suppose you are given the following requirements for a simple database for the&lt;br&gt;National Hockey League (NHL):&lt;br&gt;&lt;br&gt; the NHL has many teams,&lt;br&gt; each team has a name, a city, a coach, a captain, and a set of players,&lt;br&gt; each player belongs to only one team,&lt;br&gt; each player has a name, a position (such as left wing or goalie), a skill level, and&lt;br&gt;a set of injury records,&lt;br&gt; a team captain is also a player,&lt;br&gt; a game is played between two teams (referred to as host_team and guest_team)&lt;br&gt;and has a date (such as May 11th, 1999) and a score (such as 4 to 2).&lt;br&gt;&lt;br&gt;Construct a clean and concise ER diagram for the NHL database.&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="FyH1DNnXMYLdTDPw34gD-1" vertex="1">
-          <mxGeometry x="70" y="200" width="710" height="520" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2021-10-10T08:17:53.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="n5bW85Uv5gjtYgf_tAXK" version="15.4.1" type="github" pages="2">
   <diagram id="d9zC-lGGndAZzhyb3sW2" name="ER Diagram">
-    <mxGraphModel dx="1460" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,9 +45,6 @@
         </mxCell>
         <mxCell id="wqVWByTlI-7Odq3gkRI9-22" value="skills_level" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="595" y="351" width="105" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="wqVWByTlI-7Odq3gkRI9-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="wqVWByTlI-7Odq3gkRI9-25" target="wqVWByTlI-7Odq3gkRI9-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqVWByTlI-7Odq3gkRI9-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="wqVWByTlI-7Odq3gkRI9-25" target="wqVWByTlI-7Odq3gkRI9-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
